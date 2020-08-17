@@ -1,5 +1,7 @@
 # Happy Tree Friends SWF
-A collection of Happy Tree Friends SWF Flash Animations
+A collection of [Happy Tree Friends](https://www.happytreefriends.com/) SWF Flash Animations
+
+These flash animations are scalable, it scales depending on your screen size.
 
 1. Season 1
    1. [Spin Fun Knowin' Ya](./Season%201/01%20Spin%20Fun%20Knowin'%20Ya.swf)
@@ -60,8 +62,35 @@ A collection of Happy Tree Friends SWF Flash Animations
    27. [From A to Zoo Pt. 1](./Season%202/54%20From%20A%20to%20Zoo%20Pt.%201.swf)
 
 3. Season 3
-   
+   1. [Read 'Em and Weep](./Season%203/55%20Read%20'Em%20and%20Weep.swf)
+   2. [Can't Stop Coffin](./Season%203/56%20Can't%20Stop%20Coffin.swf)
+   3. [We're Scrooged](./Season%203/57%20We're%20Scrooged.swf)
+   4. [A Sucker for Love, Pt. One](./Season%203/58%20A%20Sucker%20for%20Love,%20Pt.%20One.swf)
+   5. [A Sucker for Love, Pt. Two](./Season%203/59%20A%20Sucker%20for%20Love,%20Pt.%20Two.swf)
+   6. [Just Desert](./Season%203/60%20Just%20Desert.swf)
+   7. [Peas in a Pod](./Season%203/61%20Peas%20in%20a%20Pod.swf)
+   8. [Wrath of Con](./Season%203/62%20Wrath%20of%20Con.swf)
+   9. [All Flocked Up](./Season%203/63%20All%20Flocked%20Up.swf)
+ 
 4. Kringles
-   
+   1. [Reindeer Kringle](./Kringles/01%20Reindeer%20Kringle.swf)
+   2. [Kringle Tree](./Kringles/02%20Kringle%20Tree.swf)
+   3. [Kringle Feast](./Kringles/03%20Kringle%20Feast.swf)
+   4. [Kringle Karols](./Kringles/04%20Kringle%20Karols.swf)
+   5. [Kringle Frosty](./Kringles/05%20Kringle%20Frosty.swf)
+   6. [Kringle Presents](./Kringles/06%20Kringle%20Presents.swf)
+
 5. Smoochies
+   1. [Cuddles as a pet](./Smoochies/01%20Cuddles%20as%20a%20pet.swf)
+   2. [Giggles' Valentine](./Smoochies/02%20Giggles'%20Valentine.swf)
+   3. [Toothy's Easter](./Smoochies/03%20Toothy's%20Easter.swf)
+   4. [Petunia's Summertime Adventures](./Smoochies/04%20Petunia's%20Summertime%20Adventures.swf)
+   5. [Nutty's Party Surprise](./Smoochies/05%20Nutty's%20Party%20Surprise.swf)
+   6. [Sniffles's Science](./Smoochies/06%20Sniffles's%20Science.swf)
+   7. [Flaky's Baseball](./Smoochies/07%20Flaky's%20Baseball.swf)
+   8. [Pop's BBQ](./Smoochies/08%20Pop's%20BBQ.swf)
+   9. [Mime's Olympics](./Smoochies/09%20Mime's%20Olympics.swf)
+   10. [Disco Bear's Halloween](./Smoochies/10%20Disco%20Bear's%20Halloween.swf)
+   11. [Pop & Cub's Christmas](./Smoochies/11%20Pop%20&%20Cub's%20Christmas.swf)
    
+Hosted on [GitHub Pages](https://github.com/AnimMouse/Happy-Tree-Friends-SWF)

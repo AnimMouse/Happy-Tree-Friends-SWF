@@ -1,0 +1,2 @@
+# Ignore scripts on linguist
+*.sh linguist-detectable=false
