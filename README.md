@@ -92,5 +92,3 @@ These flash animations are scalable, it scales depending on your screen size.
    9. [Mime's Olympics](./Smoochies/09%20Mime's%20Olympics.swf)
    10. [Disco Bear's Halloween](./Smoochies/10%20Disco%20Bear's%20Halloween.swf)
    11. [Pop & Cub's Christmas](./Smoochies/11%20Pop%20&%20Cub's%20Christmas.swf)
-   
-Hosted on [GitHub Pages](https://github.com/AnimMouse/Happy-Tree-Friends-SWF)
