@@ -1,5 +1,5 @@
 # Happy Tree Friends SWF
-A collection of [Happy Tree Friends](https://www.happytreefriends.com/) SWF Flash Animations
+A collection of [Happy Tree Friends](https://www.happytreefriends.com) SWF Flash Animations.
 
 These flash animations are scalable, it scales depending on your screen size.
 
@@ -71,7 +71,7 @@ These flash animations are scalable, it scales depending on your screen size.
    7. [Peas in a Pod](./Season%203/61%20Peas%20in%20a%20Pod.swf)
    8. [Wrath of Con](./Season%203/62%20Wrath%20of%20Con.swf)
    9. [All Flocked Up](./Season%203/63%20All%20Flocked%20Up.swf)
- 
+
 4. Kringles
    1. [Reindeer Kringle](./Kringles/01%20Reindeer%20Kringle.swf)
    2. [Kringle Tree](./Kringles/02%20Kringle%20Tree.swf)
